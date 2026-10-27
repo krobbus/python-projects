@@ -8,3 +8,6 @@ Learning python and create some projects
 - Right Triangle Hypotenuse Calculation
 - Weight Converter
 - Calculator Program
+- Quiz Game
+- Guessing Game
+- Grocery Ordering Program
