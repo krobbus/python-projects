@@ -8,3 +8,4 @@ Learning python and create some projects
 - Right Triangle Hypotenuse Calculation
 - Weight Converter
 - Calculator Program
+- Banking Program
