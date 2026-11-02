@@ -12,3 +12,4 @@ Learning python and create some projects
 - Quiz Game
 - Guessing Game
 - Grocery Ordering Program
+- Slot Machine Program
